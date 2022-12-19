@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 18px;
+    background-color: white ;
+    color: #49616E;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Fraunces, sans;
+    font-weight: 400px;
+    color: #162E3C;
+}
+.container {
+    max-width: 1288px;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 56px;
+}
+h2 {
+    font-size: 48px;
+}
+h3 {
+    font-size: 40px;
+}
+h4 {
+    font-size: 32px;
+}
+h5 {
+    font-size: 24px;
+}
+h6 {
+    font-size: 16px;
+}
